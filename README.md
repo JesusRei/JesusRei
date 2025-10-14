@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/Teléfono-%2B57%20321%20231%201978-005DAA?style=for-the-badge&logo=Phone&logoColor=white" alt="Teléfono" />
   </a>
   [![Portafolio](https://img.shields.io/badge/-Portafolio%20próximamente-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jesusrei.dev)
-  ![Proyectos Subidos](https://img.shields.io/badge/Proyectos%20Completados-7-0e75b6?style=flat)
+    <div align="center">
+    ![Proyectos Subidos](https://img.shields.io/badge/Proyectos%20Completados-7-0e75b6?style=flat)
+    </div>
 
 </div>
 
