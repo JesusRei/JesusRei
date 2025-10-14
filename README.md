@@ -12,8 +12,7 @@
     <img src="https://img.shields.io/badge/Teléfono-%2B57%20321%20231%201978-005DAA?style=for-the-badge&logo=Phone&logoColor=white" alt="Teléfono" />
   </a>
   [![Portafolio](https://img.shields.io/badge/-Portafolio%20próximamente-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jesusrei.dev)
-
-  <img src="https://komarev.com/ghpvc/?username=JesusRei&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="profile-views" />
+  ![Proyectos Subidos](https://img.shields.io/badge/Proyectos%20Completados-7-0e75b6?style=flat)
 
 </div>
 
@@ -52,12 +51,12 @@ Actualmente, estoy preparándome para obtener mis primeras certificaciones en **
 
 ## 🎓 Formación
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/university/university-line.svg" width="36" alt="Universidad de Caldas" />
-</div>
-
 **Ingeniería en Informática**  
-Universidad de Caldas | Colombia | 2025
+Universidad de Caldas &nbsp;|&nbsp; Colombia &nbsp;|&nbsp; Septiembre 2025
+GPA: **4.4/5**
+
+**Bachiller académico**  
+Institución Educativa Alfonso López Pumarejo &nbsp;|&nbsp; Colombia &nbsp;|&nbsp; Diciembre 2020
 
 ---
 
