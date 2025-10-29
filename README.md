@@ -6,7 +6,7 @@
 <!-- Bloque de contacto profesional -->
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesús-david-reinoso-gualtero-inginfo)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-david-reinoso-gualtero-inginfo)
   [![Gmail](https://img.shields.io/badge/reinosogualteroj@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reinosogualteroj@gmail.com)
   <a href="tel:+573212311978">
     <img src="https://img.shields.io/badge/Teléfono-%2B57%20321%20231%201978-005DAA?style=for-the-badge&logo=Phone&logoColor=white" alt="Teléfono" />
